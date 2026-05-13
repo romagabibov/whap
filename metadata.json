@@ -1,0 +1,6 @@
+{
+  "name": "WA Group Auto-Creator",
+  "description": "Автоматическое создание WhatsApp групп на основе данных из Google Forms (CSV).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
